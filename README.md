@@ -1,5 +1,5 @@
 # survey-form
-Its a survey form. I have used html CSS and JavaScript for email validation. Its provide a surrey animal you can also give two major question asked in survey, provided feedback and reviews to see organization.  
+Its a survey form. I have used html CSS and JavaScript for email validation. Its provide a surrey you can also give two major question asked in survey, provided feedback and reviews to see organization.  
 <h3>Features: </h3>
 <p> Just survey form  <br>
  Validation provided for this form<br> 
