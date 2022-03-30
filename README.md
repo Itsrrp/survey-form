@@ -1,6 +1,6 @@
 # survey-form
 Its a sarvey form.
-A web application to rent two-wheelers on a monthly and daily basis. 
+I can used html css and javascript for email validation. Its provide a surney of elephant you can also give two mejar question ask in survey, provided feedback and reviews to see organization.  
 <h3>Features: </h3>
 <p> Just survey form  <br>
  Validation provided for this form<br> 
